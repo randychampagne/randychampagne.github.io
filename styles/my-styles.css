@@ -1,9 +1,12 @@
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
-  /* Add padding to navbar */
-  .header{
-    padding-right: 30px;
-    padding-left: 30px;
+  /* Add padding to navbar and jumbotron */
+  .header, .jumbotron{
+    margin-right: 130px;
+    margin-left: 130px;
+  }
+
+  .header {
     margin-bottom: 30px;
   }
 }
