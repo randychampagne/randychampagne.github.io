@@ -9,4 +9,10 @@
   .header {
     margin-bottom: 30px;
   }
+
+  /* Remove border and xtra space from page headers*/
+  .page-header {
+  	border: 0 none;
+  	margin: 0;
+  }
 }
