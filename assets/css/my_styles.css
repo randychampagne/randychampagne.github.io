@@ -1,0 +1,16 @@
+.icon.minor {
+			width: 1.2em;
+			height: 1.2em;
+			display: inline-block;
+			background: #ffffff;
+			border-radius: 100%;
+			color: #312450;
+			
+			text-align: center;
+			
+			line-height: 1.1em;
+			/*
+			margin: 0 0 1.3em 0;
+			*/
+			
+		}
